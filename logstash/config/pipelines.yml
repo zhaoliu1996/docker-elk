@@ -4,3 +4,9 @@
   path.config: "/usr/share/logstash/pipeline/tasklist.conf"
 - pipeline.id: usb
   path.config: "/usr/share/logstash/pipeline/USB.conf"
+- pipeline.id: hotfix
+  path.config: "/usr/share/logstash/pipeline/hotfix.conf"
+- pipeline.id: installedPrograms
+  path.config: "/usr/share/logstash/pipeline/InstalledPrograms.conf"
+- pipeline.id: inventory
+  path.config: "/usr/share/logstash/pipeline/inventory.conf"

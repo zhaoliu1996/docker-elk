@@ -1,0 +1,329 @@
+Computer Name,OS,Machine Type,IP Address(es),Shares,Min Password Length,Max Password Age,Password Complexity,Password History,Administrator Account Name,Administrator account disabled,Guest Account Name,Guest account disabled,Audit Logon Events,Audit System Events,Audit Account Management,Security Log Size,Null Session Shares,Plain-Text passwords enabled
+PEPWAP05225,"Microsoft(R) Windows(R) Server 2003, Standard Edition SP  2.0",Server, 169.225.112.25,"C$
+IPC$
+ADMIN$
+D$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,4096,,FALSE
+PEPWAP05226,"Microsoft(R) Windows(R) Server 2003, Standard Edition SP  2.0",Server, 169.225.112.26,"C$
+IPC$
+ADMIN$
+D$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,4096,,FALSE
+PEPWUD42077,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.106,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD40812,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.220,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD40883,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.221,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD37417,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.229,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"No Auditing
+","Success and Failure
+","No Auditing
+",20480,No Null Shares Configured,FALSE
+PEPWUD40811,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.232,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWKD12300,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.236,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12301,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.237,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWUD42080,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.239,"ADMIN$
+C$
+D$
+IPC$
+Shared
+Wonderware$",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWDS00326,Microsoft Windows Server 2008 R2 Standard  SP  1.0,Server, 169.225.113.241,"aaSF$
+ADMIN$
+C$
+D$
+InSQL8SF$
+IPC$
+Wonderware$
+wonderwarerun",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success and Failure
+","Success and Failure
+","Success and Failure
+",4096,,FALSE
+PEPWUD42079,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.242,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD40911,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.243,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD39431,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.244,"ADMIN$
+C$
+D$
+IPC$
+Shared
+Wonderware$",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+MARKEM-IMAJE-PC,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.245,"ADMIN$
+C$
+D$
+IPC$
+Users",0,42,0,0,Administrator,TRUE,Guest,FALSE,"Success and Failure
+","Success and Failure
+","Success
+",20480,No Null Shares Configured,FALSE
+PEPWUD37406,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.113.251,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"No Auditing
+","Success and Failure
+","No Auditing
+",20480,No Null Shares Configured,FALSE
+PEPWKD12350,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.116,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12353,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.118,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12310,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.128,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12345,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.132,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12024,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.14,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12359,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.146,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12314,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.148,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12315,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.161,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12348,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.170,"ADMIN$
+C$
+D$
+IPC$",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12355,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.171,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12358,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.173,"ADMIN$
+C$
+D$
+IPC$
+Wonderware$",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12116,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.174,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12022,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.192,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12309,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.20,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12346,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.200,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12307,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.21,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWUD26411,Microsoft Windows XP Professional SP  3.0,HMI,169.225.114.33,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWKD12095,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.35,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12351,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.43,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12313,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.54,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12311,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.64,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12312,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.82,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12255,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.87,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12352,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.98,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWKD12352,Microsoft Windows 7 Professional  SP  1.0,HMI, 169.225.114.98,"ADMIN$
+C$
+D$
+IPC$
+Shared",0,42,0,0,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success, Failure","Success
+",16320,No Null Shares Configured,FALSE
+PEPWAP05714,Microsoft Windows Server 2008 R2 Standard  SP  1.0,Server, 169.254.12.206,"aaFileRepository
+aaSF$
+ADMIN$
+ArchestrA Galaxy Data
+C$
+D
+D$
+IPC$",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success and Failure
+","Success and Failure
+","Success and Failure
+",4096,,FALSE
+PEPWUD25007,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.103,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25365,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.133,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25368,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.143,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25370,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.199,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25006,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.219,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25006,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.219,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+MARKEMIMAJE-PC,Microsoft Windows 7 Professional  SP  1.0,Workstation, 26.206.4.223,"ADMIN$
+C$
+IPC$",0,42,0,0,Administrator,TRUE,Guest,TRUE,"Success
+","Success and Failure
+","Success
+",20480,No Null Shares Configured,FALSE
+PEPWUD25194,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.232,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25009,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.45,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25364,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.47,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD25364,Microsoft Windows XP Professional SP  3.0,Workstation, 26.206.4.47,"IPC$
+D$
+ADMIN$
+C$",8,90,1,4,Administrator,FALSE,Guest,TRUE,Not Set,Not Set,Not Set,512,"COMCFG,DFS$",FALSE
+PEPWUD42082,Microsoft Windows 7 Professional  SP  1.0,Workstation, 26.206.4.74,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD42074,Microsoft Windows 7 Professional  SP  1.0,Workstation, 26.206.4.75,"ADMIN$
+C$
+D$
+IPC$
+Shared
+Wonderware$",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
+PEPWUD42075,Microsoft Windows 7 Professional  SP  1.0,Workstation, 26.206.4.76,"ADMIN$
+C$
+D$
+IPC$
+Shared",8,90,1,4,Administrator,FALSE,Guest,TRUE,"Success, Failure","Success and Failure
+","Success, Failure",20480,No Null Shares Configured,FALSE
