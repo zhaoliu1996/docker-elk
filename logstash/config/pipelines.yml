@@ -8,5 +8,5 @@
   path.config: "/usr/share/logstash/pipeline/hotfix.conf"
 - pipeline.id: installedPrograms
   path.config: "/usr/share/logstash/pipeline/InstalledPrograms.conf"
-- pipeline.id: inventory
-  path.config: "/usr/share/logstash/pipeline/inventory.conf"
+# - pipeline.id: inventory
+#   path.config: "/usr/share/logstash/pipeline/inventory.conf"
